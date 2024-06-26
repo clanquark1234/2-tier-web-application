@@ -39,10 +39,11 @@
       <p class="or">
         ----------or--------
       </p>
-      <div class="icons">
-        <i class="fab fa-google"></i>
-        <i class="fab fa-facebook"></i>
-      </div>
+     <div class="icons">
+  <a href="https://accounts.google.com/signup/v2/webcreateaccount?hl=en&flowName=GlifWebSignIn&flowEntry=SignUp" class="fab fa-google"></a>
+  <a href="https://www.facebook.com/r.php" class="fab fa-facebook"></a>
+</div>
+
       <div class="links">
         <p>Already Have Account ?</p>
         <button id="signInButton">Sign In</button>
